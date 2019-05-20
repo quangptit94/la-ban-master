@@ -1,9 +1,9 @@
 {
     "mydata":[
 	    {
-	    "is-alive-store":"true",
+	    "is-alive-store":"false",
 	    "is-show-out":"true",
-            "package-name-replace":"xxx.yyy.aaa"
+            "package-name-replace":"com.gpstool.smartcompass.skt"
         }
     ]
 }
